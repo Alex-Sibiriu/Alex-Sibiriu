@@ -20,12 +20,6 @@
 </div>
 
 <div align="center">
-  <h2>📈 Statistiche GitHub</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sibiriu&layout=compact&langs_count=6&card_width=400px" alt="Top Langs" />
-</div>
-
-<div align="center">
   <h2>📫 Connettiti con me</h2>
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/alex-sibiriu-293368312/)
